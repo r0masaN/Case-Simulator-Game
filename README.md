@@ -1,8 +1,8 @@
 # Case Simulator: Симулятор открытия кейсов CS:GO  
 
-![alt text](case_simulator_1)
-![alt text](case_simulator_2)
-![alt text](case_simulator_3)
+![alt text](case_simulator_1.png)
+![alt text](case_simulator_2.png)
+![alt text](case_simulator_3.png)
 
 ## Описание проекта
 Это реалистичный симулятор открытия кейсов из CS:GO, разработанный для любителей виртуального азарта.  
